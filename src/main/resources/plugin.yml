@@ -1,0 +1,9 @@
+name: PunsihGUI
+version: '${project.version}'
+main: org.dev.punsihgui.PunsihGUI
+api-version: '1.20'
+commands:
+  punish:
+    description: Punish A Player
+  pu:
+    description: Punish A Player
